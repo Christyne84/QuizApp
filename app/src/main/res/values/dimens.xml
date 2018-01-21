@@ -11,4 +11,5 @@
     <dimen name="dim30">30dp</dimen>
     <dimen name="dim40">40dp</dimen>
     <dimen name="dim60">60dp</dimen>
+    <dimen name="dim100">100dp</dimen>
 </resources>
