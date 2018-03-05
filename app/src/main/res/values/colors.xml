@@ -7,5 +7,4 @@
     <color name="white">#FFFFFF</color>
     <color name="correctAnswer">#4CAF50</color>
     <color name="wrongAnswer">#F44336</color>
-
 </resources>
